@@ -201,9 +201,18 @@ Alle Benutzer\*innekonten müssen von einem\*r Administrator\*in erstellt werden
 5. Speichere das neue Passwort.
 6. Melde dich mit deinem **Benutzernamen** und dem **neuen Passwort** an.
 
+### Nutzer\*innen filtern
+**Wer:**Administrator\*innen
+
+1. Klicke im Menu auf **Benutzer**
+2. Klicke oben rechts in der Ecke auf das Filter-Symbol
+3. In der nun erschienen Maske wähle das Attribut aus Wonach du filtern willst:
+-  
+
+
 
 #### Passwortliste drucken
-**Wer:** Administrator*innen
+**Wer:** Administrator\*innen
 
 > 💡 Diese Passwortlisten können ausgeschnitten und dann einzeln an die Schüler\*innen ausgegeben werden.
 
@@ -224,3 +233,14 @@ Alle Benutzer\*innekonten müssen von einem\*r Administrator\*in erstellt werden
 2. Scrolle in der Zeile des oder der Nutzer/*in deren Passwort zurück gesetz werden soll zur Spalte **"Passwort"**
 3. Klicke auf **"Passwort zurücksetzen"**
 4. Bestätige das Pop-up Fenster
+
+## Schuljahres wechsel
+
+Zum neuen Schuljahr müssen die Klassen der Schüler\*innen gewechselt werden, um die Versetzung im System abzu bilden.
+Hier für schlagen wir vor die (Klassen-)Räume der Schüler\*innen zu ändern anstatt die Schüler in neue Räume zu schieben.
+
+### Löschen von abgegangen Schüler\*innen
+
+1. Filtere nach den Räumen bzw. Klassen dessen SchüLer*innen von der Schule abgeheben bspw. 12a
+2. Klicke auf die Checkbox oben links in der Ecke.
+3. Klicke auf den Button löschen 

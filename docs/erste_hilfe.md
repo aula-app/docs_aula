@@ -32,4 +32,8 @@ Versuche es mit und ohne Anmeldung.
 
 Auch hilft es vielleicht einfach die Beispieldatei zunutzen und hier Inhalte mit copy & paste hinzuzufügen.
 
-Hast du schon alles probiert? Wenn es immer noch Probleme gibt: Schreibe uns an [support@aula.de](mailto:support@aula.de)
+# Fehlermelden
+
+Hast du schon alles Mögliche probiert? Dann ist es gut möglich, dass du einen Bug gefunden hast. Schreib uns an support@aula.de.
+
+Damit wir das Problem besser verstehen können, hilft es uns sehr, wenn ihr Screenshots oder noch besser Screenrecordings schickt, die euer Problem zeigen. Natürlich könnt ihr das Problem auch ausführlich beschreiben. Dabei hilft es, wenn ihr Schritt für Schritt erklärt, wie das Problem auftritt. Auch Informatioen über den Kontext können helfen, tritt das Problem nur Mittwochs auf usw.

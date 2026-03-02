@@ -1,6 +1,6 @@
 # Administrationsbereich
 ---
-1. **[📩 Nachrichten-Menü](#nachrichten-menü)**
+1. **[📩 Nachrichten-schreiben](#nachrichten-menü)**
 2. **[📢 Ankündigungs-Menü](#ankündigungs-menü)**
 3. **[🚩 Berichte-Menü](#berichte-menü)**
 4. **[🙋 Anfragen-Menü](#anfragen-menü)**
@@ -8,7 +8,7 @@
 
 ---
 
-# Nachrichten-Menü
+# Nachrichten-schreiben
 
 Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmte Nutzer\*innen, Gruppen, Räume oder an alle Nutzer\*innen gleichzeitig zu versenden. Die Nachrichten sind **einseitig** – es kann **nicht darauf geantwortet werden**, und **Nutzer\*innen können sich nicht gegenseitig schreiben**.
 
