@@ -241,6 +241,15 @@ Alle Benutzer\*innekonten müssen von einem\*r Administrator\*in erstellt werden
 3. Klicke auf **"Passwort zurücksetzen"** in der Button-Leiste oberhalb der Tabelle.
 4. Bestätige das Pop-up Fenster
 
+### Jahrgangsraum anlegen
+1. Klicke im Menü auf **Benutzer**.
+2. Wähle im Filter unter "RÄUME" die Klasse aus die du in eine Jahrgangsstufe verschieben willst.
+3. Wähle alle Schüler\*innen aus, die nun gefiltert sind.
+4. Klicke auf "ZU RAUM HINZUFÜGEN" und wähle in der Auswahl den betreffenden Raum aus.
+5. Bestätigen die Eingabe.
+
+
+
 ## Schuljahres wechsel
 
 Zum neuen Schuljahr müssen die Klassen der Schüler\*innen gewechselt werden, um die Versetzung im System abzu bilden.
