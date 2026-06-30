@@ -18,9 +18,21 @@ Ideen sind Vorschläge, die diskutiert, überarbeitet, geprüft und schließlich
 
 Boxen sind Sammlungen thematisch zusammengehöriger Ideen. Ab der Diskussionsphase konzentriert sich der Prozess auf Boxen, die eine oder mehrere Ideen enthalten können.
 
+## Phasendauer
+Für jeden Raum kann eine Standard-Phasendauer festgelegt werden für die Diskussions- und die Abstimmungsphase.
+
+### Phasendauer ändern
+
+Klicke auf „Räume“.
+Wähle den Raum aus, dessen Phasendauer du ändern möchtest.
+Wähle die Diskussions- oder Abstimmungsphase aus.
+Gib die gewünschte Dauer in Tagen ein.
+Klicke auf „BESTÄTIGEN“.
+
 ## Boxen zwischen Phasen verschieben
 
-Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nächste verschieben. Dieser Schritt ist zentral für das Konzept von aula, da er den Fortschritt einer Idee bis zur ihrer Abstimmung wiederspiegelt.
+Abhängig von ihrer Rolle können Nutzer*innen Boxen von einer Phase in die nächste verschieben. Dieser Schritt ist ein zentraler Bestandteil des aula-Konzepts, da er den Fortschritt einer Idee bis hin zur Abstimmung abbildet. Sobald eine Box in eine neue Phase verschoben wird, übernimmt sie die für diese Phase festgelegte Phasendauer, sofern eine definiert ist.
+
 
 
 1. **Betrete eine Phase (Nur die Wilde Ideen-Phase hat keinen Boxen)**
